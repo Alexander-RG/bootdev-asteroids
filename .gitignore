@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+*.pyd
+
+# Build / distribution
+build/
+dist/
+wheels/
+*.egg-info
+*.egg
+
+# Virtual environments (uv / venv)
+.venv/
+venv/
+ENV/
+env/
+
+# uv artifacts
+.pyproject.lock
+.uv/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Optional: Zed project settings (if you don't want to share them)
+.zed/
