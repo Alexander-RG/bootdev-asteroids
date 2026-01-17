@@ -26,5 +26,8 @@ env/
 Thumbs.db
 *.swp
 
+#game state
+game_state.jsonl
+
 # Optional: Zed project settings (if you don't want to share them)
 .zed/
