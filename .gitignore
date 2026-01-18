@@ -28,6 +28,7 @@ Thumbs.db
 
 #game state
 game_state.jsonl
+game_events.jsonl
 
 # Optional: Zed project settings (if you don't want to share them)
 .zed/
